@@ -1,0 +1,17 @@
+name: project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - openpyxl
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - voila
+  - rise
+  - scikit-learn
+  - altair
+  - vega_datasets
+  - matplotlib
+  - seaborn
