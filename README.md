@@ -34,3 +34,6 @@ Structure of this repo:
 ├── requirements       <- The requirements file for reproducing the analysis environment, e.g. a `environment.yml` file
 
 ```    
+### Link to presentation
+
+[Google slides](https://docs.google.com/presentation/d/1M_uVN3-nIJNgzh2xkNuPnuOmHt88w20yOjymMcxcEmg/edit?usp=sharing)
